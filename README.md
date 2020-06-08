@@ -1,6 +1,23 @@
 [![Build Status](https://travis-ci.com/STaRiCHDED/Lab07.svg?branch=master)](https://travis-ci.com/STaRiCHDED/Lab07)
 ## Laboratory work VII
+
+<a href="https://yandex.ru/efir/?stream_id=vDHLoKtKoa3o"><img src="https://raw.githubusercontent.com/tp-labs/lab07/master/preview.png" width="640"/></a>
+
+Данная лабораторная работа посвещена изучению систем управления пакетами на примере **Hunter**
+
+```sh
+$ open https://github.com/ruslo/hunter
+```
+
+## Tasks
+
+- [x] 1. Создать публичный репозиторий с названием **lab07** на сервисе **GitHub**
+- [x] 2. Выполнить инструкцию учебного материала
+- [x] 3. Ознакомиться со ссылками учебного материала
+- [x] 4. Составить отчет и отправить ссылку личным сообщением в **Slack**
+
 ## Tutorial
+
 ```sh
 $ export GITHUB_USERNAME=STaRiCHDED
 $ alias gsed=sed
@@ -260,11 +277,10 @@ $ gist REPORT.md
 ```
 
 ## Links
-- [Основы сборки проектов на С/C++ при помощи CMake](https://eax.me/cmake/)
-- [CMake Tutorial](http://neerc.ifmo.ru/wiki/index.php?title=CMake_Tutorial)
-- [C++ Tutorial - make & CMake](https://www.bogotobogo.com/cplusplus/make.php)
-- [Autotools](http://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html)
-- [CMake](https://cgold.readthedocs.io/en/latest/index.html)
+
+- [Create Hunter package](https://docs.hunter.sh/en/latest/creating-new/create.html)
+- [Custom Hunter config](https://github.com/ruslo/hunter/wiki/example.custom.config.id)
+- [Polly](https://github.com/ruslo/polly)
 
 ```
 Copyright (c) 2015-2020 The ISC Authors
